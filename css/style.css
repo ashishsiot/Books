@@ -48,3 +48,10 @@ body {
     
 }
 /*# sourceMappingURL=style.css.map */
+
+
+#intro .card:hover{
+  background-color: #3292a6;
+  color:#fff;
+}
+
